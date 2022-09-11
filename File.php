@@ -11,7 +11,7 @@ class File
 	const TYPE_IMAGE = 'image';
 
 	const DIRECTORY_DOCUMENTS = 'documents/';
-	const DIRECTORY_IMAGES = 'images/';
+	const DIRECTORY_IMAGES = 'pictures/';
 
 	public function __construct(
 		$complete_name,

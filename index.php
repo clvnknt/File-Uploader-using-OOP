@@ -30,7 +30,7 @@ $error = $_GET['error'] ?? null;
                 <?php endif ?>
                     <h2><b>Registrations</b></h2>
                     <form method="POST" action="register.php">
-                    <button type="button" class="btn btn-success">Add Registration</button>
+                    <button class="btn btn-success"><i class="material-icons">&#xE147;</i> <span>Add New Registration</span></a>
                     </form>
                 </div>
             </div>
